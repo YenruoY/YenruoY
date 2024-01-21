@@ -1,4 +1,4 @@
-![](key.jpg)
+![](./assets/1.png)
 
 💻 I do computer stuffs 
 
