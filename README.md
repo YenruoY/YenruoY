@@ -1,3 +1,7 @@
+💻 I do computer stuffs 
+
 🐧 Linux enthusiast
 
-🐍 Does python programming
+🐍 Programs in Python
+
+🌩️ Learning Zig
