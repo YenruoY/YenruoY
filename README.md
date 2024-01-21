@@ -5,3 +5,5 @@
 🐍 Programs in Python
 
 🌩️ Learning Zig
+
+⌨️ Loves mechanical keyboards
